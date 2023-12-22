@@ -1,12 +1,12 @@
 package puppy
 
-func bark() string {
+func Bark() string {
 
 	return "woof"
 
 }
 
-func barks() string {
+func Barks() string {
 
 	return "woof woof woof"
 
